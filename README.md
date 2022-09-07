@@ -9,3 +9,6 @@ branch2 testing
 branch a changes
 
 branch b changes
+
+branch c changes
+
